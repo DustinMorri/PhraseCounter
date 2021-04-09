@@ -9,7 +9,7 @@ For quick use on Windows:
 		phraseCount 2 4 < in.txt > out.txt
 		The 2 here can be replaced with any number less than the second number as long as it's greater than or equal to 1.
 		It is the minimum number of words in a phrase.
-		The 4 here can be replace with any number.
+		The 4 here can be replaced with any number.
 		It is the maximum number of words in a phrase.
 		It may take some time to process if you want a really high maximum, but it's rare that 5 or more of the same words appear in the same order multiple times except in modern pop songs.
 		So, it's not even worth putting this number above 5.
