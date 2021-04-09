@@ -1,5 +1,5 @@
 This is a simple phrase counter.
-I can help you figure out which words and phrases appear the most frequently in a text.
+It can help you figure out which words and phrases appear the most frequently in a text.
 If you use it, please tell me about it at dustin.morri@gmail.com so that I can brag about it in interviews.
 For quick use on Windows:
 	Download phraseCount.exe.
